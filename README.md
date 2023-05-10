@@ -1,15 +1,6 @@
-![Stripe Pad Storefront](open-graph.png "Stripe Pad Logo Image")
-  
-[![License: GPL3](https://img.shields.io/github/license/natzar/Stripe-Pad)](https://github.com/natzar/Stripe-Pad/blob/main/LICENSE.md)
+#  Leah's Projects
 
-
-
-
-
-  
-#  Stripe Pad
-
-> 🚧 **This project is heavily under construction!** 🚧 As excited as you may be, we don't recommend this early alpha for production use. Still, give it a try if you want to have some fun and don't mind.
+>  **Browse my projects!**  As excited as you may be, we don't recommend this early alpha for production use. Still, give it a try if you want to have some fun and don't mind.
 
 [Stripe Pad](https://stripepad.com) is the simplest way to start selling your Stripe products and subscriptions. A simple storefront solution that wants to become a Stripe based Micro SaaS boilerplate for faster launching. Show and sell your products today, effortlessly. It connects to your Stripe account and acts as an UI, there is no database, just a Json file. 
 
@@ -27,16 +18,9 @@ Once installed, your storefront will be ready to:
 
 ## Technologies used
 
-It's a very simple and rudimentary architecture on purpose, less code, less debt, less long-term commitment. The focus is on the short-term, in generating a website with Stripe integration to validate a business or product idea fast, while having a starting point that doesn't make you lose time, when starting up or later.
+Python 3
 
-1. Php
-2. Vanilla Js
-3. Dependencies: Stripe Php Wrapper & Php Mailer only.
-5. *Starter themes use Tailwind CSS via CDN*.
- 
-## DEMO
-[📣 See live demo here →](https://www.stripepad.com)
-![Stripe Pad Storefront](sample.png "List Theme")
+
 
 
 ## Getting Started, Installation
